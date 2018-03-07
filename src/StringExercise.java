@@ -16,6 +16,5 @@ public class StringExercise {
         message += "I can do backslashes \\, double backslashes \\\\,\n" +
                 "and the amazing triple backslash \\\\\\!";
         System.out.println(message);
-
     }
 }
